@@ -4,7 +4,7 @@ Youtube: [Sains Komputer Malaysia](https://www.youtube.com/channel/UCfcmBDGEbrh_
 
 ### Kami mencari admin untuk portal dan akaun sosial media kami
 
-Kepada yang berminat, sila emailkan resume/projek/github link kepada [sainskomputermalaysia@gmail.com](sainskomputermalaysia@gmail.com)
+Kepada yang berminat, sila emailkan resume/projek/github link kepada [sainskomputermalaysia@gmail.com](mailto:sainskomputermalaysia@gmail.com)
 
 ```markdown
 Mantap bossku
